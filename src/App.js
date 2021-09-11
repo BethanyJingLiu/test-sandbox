@@ -21,6 +21,12 @@ export default function App() {
       middleName: "Pinto",
       lastName: "Rodrigues",
       age: "25"
+    },
+    {
+      id: "4",
+      firstName: "George",
+      lastName: "Min",
+      age: "60"
     }
   ];
   return (
